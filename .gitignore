@@ -1,0 +1,5 @@
+# Datos de la prueba (contienen mensajes de clientes): nunca subirlos
+*.csv
+*.txt
+data/
+__pycache__/
